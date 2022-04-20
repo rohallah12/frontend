@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/frontend/static/css/main.64735cf0.css",
-    "main.js": "/frontend/static/js/main.cfbcf6f6.js",
-    "static/js/787.cda612ba.chunk.js": "/frontend/static/js/787.cda612ba.chunk.js",
-    "static/media/Treasure.svg": "/frontend/static/media/Treasure.b1185f9d22a1f2b846f51e07251fb7f1.svg",
-    "static/media/Cronos.svg": "/frontend/static/media/Cronos.ccf021cbe8fd948e874ce227c23e1910.svg",
-    "static/media/Solana.svg": "/frontend/static/media/Solana.b612f1402147c92338bed5af1879b175.svg",
-    "static/media/Avalanche.svg": "/frontend/static/media/Avalanche.515adb67909cc7d8d2a131e48998c7f4.svg",
-    "static/media/Ethereum.svg": "/frontend/static/media/Ethereum.dc8dd7da33a68b9d18edc6f130f0e705.svg",
-    "static/media/Polygon.svg": "/frontend/static/media/Polygon.97ff139cc7379a42cf141d74a6595fff.svg",
-    "static/media/BNB.svg": "/frontend/static/media/BNB.9533eed3c5d7a7b19866e39dfa18721f.svg",
-    "index.html": "/frontend/index.html",
-    "static/media/Tron.svg": "/frontend/static/media/Tron.e3aaf062ac24c498317e2f936da61bc0.svg",
-    "static/media/Algorand.svg": "/frontend/static/media/Algorand.2015fd2c3789321e5d60cf05dcf6968b.svg",
-    "main.64735cf0.css.map": "/frontend/static/css/main.64735cf0.css.map",
-    "main.cfbcf6f6.js.map": "/frontend/static/js/main.cfbcf6f6.js.map",
-    "787.cda612ba.chunk.js.map": "/frontend/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/static/css/main.64735cf0.css",
+    "main.js": "/static/js/main.9f7fbcce.js",
+    "static/js/787.7efd31bd.chunk.js": "/static/js/787.7efd31bd.chunk.js",
+    "static/media/Treasure.svg": "/static/media/Treasure.b1185f9d22a1f2b846f51e07251fb7f1.svg",
+    "static/media/Cronos.svg": "/static/media/Cronos.ccf021cbe8fd948e874ce227c23e1910.svg",
+    "static/media/Solana.svg": "/static/media/Solana.b612f1402147c92338bed5af1879b175.svg",
+    "static/media/Avalanche.svg": "/static/media/Avalanche.515adb67909cc7d8d2a131e48998c7f4.svg",
+    "static/media/Ethereum.svg": "/static/media/Ethereum.dc8dd7da33a68b9d18edc6f130f0e705.svg",
+    "static/media/Polygon.svg": "/static/media/Polygon.97ff139cc7379a42cf141d74a6595fff.svg",
+    "static/media/BNB.svg": "/static/media/BNB.9533eed3c5d7a7b19866e39dfa18721f.svg",
+    "index.html": "/index.html",
+    "static/media/Tron.svg": "/static/media/Tron.e3aaf062ac24c498317e2f936da61bc0.svg",
+    "static/media/Algorand.svg": "/static/media/Algorand.2015fd2c3789321e5d60cf05dcf6968b.svg",
+    "main.64735cf0.css.map": "/static/css/main.64735cf0.css.map",
+    "main.9f7fbcce.js.map": "/static/js/main.9f7fbcce.js.map",
+    "787.7efd31bd.chunk.js.map": "/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64735cf0.css",
-    "static/js/main.cfbcf6f6.js"
+    "static/js/main.9f7fbcce.js"
   ]
 }
