@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rohallah12/frontend/static/css/main.64735cf0.css",
+    "main.js": "/rohallah12/frontend/static/js/main.8d4748e8.js",
+    "static/js/787.cda612ba.chunk.js": "/rohallah12/frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/Treasure.svg": "/rohallah12/frontend/static/media/Treasure.b1185f9d22a1f2b846f51e07251fb7f1.svg",
+    "static/media/Cronos.svg": "/rohallah12/frontend/static/media/Cronos.ccf021cbe8fd948e874ce227c23e1910.svg",
+    "static/media/Solana.svg": "/rohallah12/frontend/static/media/Solana.b612f1402147c92338bed5af1879b175.svg",
+    "static/media/Avalanche.svg": "/rohallah12/frontend/static/media/Avalanche.515adb67909cc7d8d2a131e48998c7f4.svg",
+    "static/media/Ethereum.svg": "/rohallah12/frontend/static/media/Ethereum.dc8dd7da33a68b9d18edc6f130f0e705.svg",
+    "static/media/Polygon.svg": "/rohallah12/frontend/static/media/Polygon.97ff139cc7379a42cf141d74a6595fff.svg",
+    "static/media/BNB.svg": "/rohallah12/frontend/static/media/BNB.9533eed3c5d7a7b19866e39dfa18721f.svg",
+    "index.html": "/rohallah12/frontend/index.html",
+    "static/media/Tron.svg": "/rohallah12/frontend/static/media/Tron.e3aaf062ac24c498317e2f936da61bc0.svg",
+    "static/media/Algorand.svg": "/rohallah12/frontend/static/media/Algorand.2015fd2c3789321e5d60cf05dcf6968b.svg",
+    "main.64735cf0.css.map": "/rohallah12/frontend/static/css/main.64735cf0.css.map",
+    "main.8d4748e8.js.map": "/rohallah12/frontend/static/js/main.8d4748e8.js.map",
+    "787.cda612ba.chunk.js.map": "/rohallah12/frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64735cf0.css",
+    "static/js/main.8d4748e8.js"
+  ]
+}
