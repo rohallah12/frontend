@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frontend/static/css/main.64735cf0.css",
-    "main.js": "/frontend/static/js/main.2c33d66a.js",
-    "static/js/787.7efd31bd.chunk.js": "/frontend/static/js/787.7efd31bd.chunk.js",
+    "main.js": "/frontend/static/js/main.8a83e275.js",
+    "static/js/787.cda612ba.chunk.js": "/frontend/static/js/787.cda612ba.chunk.js",
     "static/media/Treasure.svg": "/frontend/static/media/Treasure.b1185f9d22a1f2b846f51e07251fb7f1.svg",
     "static/media/Cronos.svg": "/frontend/static/media/Cronos.ccf021cbe8fd948e874ce227c23e1910.svg",
     "static/media/Solana.svg": "/frontend/static/media/Solana.b612f1402147c92338bed5af1879b175.svg",
@@ -14,11 +14,11 @@
     "static/media/Tron.svg": "/frontend/static/media/Tron.e3aaf062ac24c498317e2f936da61bc0.svg",
     "static/media/Algorand.svg": "/frontend/static/media/Algorand.2015fd2c3789321e5d60cf05dcf6968b.svg",
     "main.64735cf0.css.map": "/frontend/static/css/main.64735cf0.css.map",
-    "main.2c33d66a.js.map": "/frontend/static/js/main.2c33d66a.js.map",
-    "787.7efd31bd.chunk.js.map": "/frontend/static/js/787.7efd31bd.chunk.js.map"
+    "main.8a83e275.js.map": "/frontend/static/js/main.8a83e275.js.map",
+    "787.cda612ba.chunk.js.map": "/frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64735cf0.css",
-    "static/js/main.2c33d66a.js"
+    "static/js/main.8a83e275.js"
   ]
 }
